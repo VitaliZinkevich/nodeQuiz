@@ -1,0 +1,21 @@
+{
+  "name": "quiz",
+  "version": "1.0.0",
+  "description": "quiz game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitaliZinkevich/nodeQuiz.git"
+  },
+  "author": "VZinkevich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VitaliZinkevich/nodeQuiz/issues"
+  },
+  "homepage": "https://github.com/VitaliZinkevich/nodeQuiz#readme"
+  "devDependencies":{},
+  "dependencies":{}
+  }
